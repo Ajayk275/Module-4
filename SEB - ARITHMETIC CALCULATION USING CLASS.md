@@ -26,7 +26,7 @@ To write a Python program to perform modulo and floor division operations using 
 ### PROGRAM
 ```python
 # Reg.No- 212222060009
-# Name-  AJAY K
+# Name- AJAY K
 class calc:
     def setvalues(self,a,b):
         self.a=a
